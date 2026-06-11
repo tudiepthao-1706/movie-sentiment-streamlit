@@ -1,0 +1,5 @@
+# Bỏ qua các file cấu hình của Visual Studio
+.vs/
+*.pyproj
+*.slnx
+*.user
